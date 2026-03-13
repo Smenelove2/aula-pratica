@@ -11,3 +11,4 @@ def ler_notas_csv() -> list[float]:
             notas.append(float(linha[0]))
 
     return notas
+
